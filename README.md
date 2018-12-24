@@ -1,9 +1,8 @@
 # MachineTranslationCompare
-Compare a translation you have with a machine translation. By https://smartlation.com
+Compare a translation you have with a machine translation. By Smartlation <a href="https://www.smartlation.com/services/translation">Translation Services</a> 
 
 
 
-By https://smartlation.com
 The following parameters should be sent to the script (as POST or GET) :
 
 "src_txt" - Source text to be compared to a machine translation
